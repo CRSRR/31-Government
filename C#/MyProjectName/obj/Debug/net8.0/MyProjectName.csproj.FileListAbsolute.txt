@@ -1,0 +1,14 @@
+C:\Users\Clayton\Videos\Z) MS1\OOP Lab\31 OOP Assign\C#\myprojectname\obj\Debug\net8.0\MyProjectName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Clayton\Videos\Z) MS1\OOP Lab\31 OOP Assign\C#\myprojectname\obj\Debug\net8.0\MyProjectName.AssemblyInfoInputs.cache
+C:\Users\Clayton\Videos\Z) MS1\OOP Lab\31 OOP Assign\C#\myprojectname\obj\Debug\net8.0\MyProjectName.AssemblyInfo.cs
+C:\Users\Clayton\Videos\Z) MS1\OOP Lab\31 OOP Assign\C#\myprojectname\obj\Debug\net8.0\MyProjectName.csproj.CoreCompileInputs.cache
+C:\Users\Clayton\Videos\Z) MS1\OOP Lab\31 OOP Assign\C#\MyProjectName\bin\Debug\net8.0\MyProjectName.exe
+C:\Users\Clayton\Videos\Z) MS1\OOP Lab\31 OOP Assign\C#\MyProjectName\bin\Debug\net8.0\MyProjectName.deps.json
+C:\Users\Clayton\Videos\Z) MS1\OOP Lab\31 OOP Assign\C#\MyProjectName\bin\Debug\net8.0\MyProjectName.runtimeconfig.json
+C:\Users\Clayton\Videos\Z) MS1\OOP Lab\31 OOP Assign\C#\MyProjectName\bin\Debug\net8.0\MyProjectName.dll
+C:\Users\Clayton\Videos\Z) MS1\OOP Lab\31 OOP Assign\C#\MyProjectName\bin\Debug\net8.0\MyProjectName.pdb
+C:\Users\Clayton\Videos\Z) MS1\OOP Lab\31 OOP Assign\C#\MyProjectName\obj\Debug\net8.0\MyProjectName.dll
+C:\Users\Clayton\Videos\Z) MS1\OOP Lab\31 OOP Assign\C#\MyProjectName\obj\Debug\net8.0\refint\MyProjectName.dll
+C:\Users\Clayton\Videos\Z) MS1\OOP Lab\31 OOP Assign\C#\MyProjectName\obj\Debug\net8.0\MyProjectName.pdb
+C:\Users\Clayton\Videos\Z) MS1\OOP Lab\31 OOP Assign\C#\MyProjectName\obj\Debug\net8.0\MyProjectName.genruntimeconfig.cache
+C:\Users\Clayton\Videos\Z) MS1\OOP Lab\31 OOP Assign\C#\MyProjectName\obj\Debug\net8.0\ref\MyProjectName.dll
